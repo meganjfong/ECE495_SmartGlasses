@@ -18,7 +18,7 @@ This repository contains the code and documentation for a smart glasses project 
 
 ### Translation Integration
 - **Purpose:** Allows users to input text for translation and displays the translated text on the smart glasses.
-- **Implementation:** Uses Google Translate API to prompt the user for text input, specify the target language, and output the translated text on the OLED display.
+- **Implementation:** Uses Google Translate module to prompt the user for text input, specify the target language, and output the translated text on the OLED display.
 
 ### Music Player
 - **Purpose:** Enables users to play music wirelessly or through GPIO-connected speakers.
