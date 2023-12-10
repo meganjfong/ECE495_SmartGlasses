@@ -4,7 +4,7 @@
 
 # Smart Glasses Project Repository
 
-This repository contains the code and documentation for a smart glasses project developed by Megan Fong and Nirvan Silswal. The smart glasses project incorporates various functionalities including timedate and weather display, translation capabilities, a music player, and Dropbox file upload functionality.
+This repository contains the code and documentation for a smart glasses project developed by Megan Fong and Nirvan Silswal. The smart glasses project incorporates various functionalities including timedate and weather display, translation capabilities, a music player, and Dropbox file upload functionality. This was created for a final project for the Duke University ECE495/CS390 course led by professor Tingjun Chen.
 
 ## Features
 
@@ -46,7 +46,7 @@ To set up and run the smart glasses project on your Raspberry Pi or similar hard
    
 3. **Installation Steps:**
    - Clone this repository to your Raspberry Pi or development environment.
-   - Set up the hardware components as described in the hardware setup documentation([accessible here](https://www.waveshare.com/wiki/1.51inch_Transparent_OLED)).
+   - Set up the hardware components as described in the hardware setup documentation ([accessible here](https://www.waveshare.com/wiki/1.51inch_Transparent_OLED)).
    - Install required Python libraries using pip or your preferred package manager.
    - Set up API keys for OpenWeatherMap, Google Translate, and Dropbox as per their respective documentation.
    - Run the main Python script to activate the smart glasses functionalities.
