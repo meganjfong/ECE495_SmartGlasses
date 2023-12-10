@@ -49,7 +49,7 @@ To set up and run the smart glasses project on your Raspberry Pi or similar hard
    - Set up the hardware components as described in the hardware setup documentation ([accessible here](https://www.waveshare.com/wiki/1.51inch_Transparent_OLED)).
    - Install required Python libraries using pip or your preferred package manager.
    - Set up API keys for OpenWeatherMap, Google Translate, and Dropbox as per their respective documentation.
-   - Run the main Python script to activate the smart glasses functionalities.
+   - Run the Python scripts to activate the smart glasses functionalities.
 
 ## Usage
 
