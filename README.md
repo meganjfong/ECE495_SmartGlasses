@@ -62,4 +62,4 @@ To set up and run the smart glasses project on your Raspberry Pi or similar hard
 ## Contributors
 
 - Megan Fong ([GitHub Profile](https://github.com/meganjfong))
-- Nirvan Silswal ([GitHub Profile](https://github.com/NirvanSilswal))
+- Nirvan Silswal ([GitHub Profile](https://github.com/Nsilswal))
